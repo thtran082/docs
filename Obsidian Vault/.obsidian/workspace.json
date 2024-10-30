@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1b70db538cfad899",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6cbb67bf931d816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22db9615996525ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "096ea7ed1659aa34",
+    "type": "split",
+    "children": [
+      {
+        "id": "102aef6cc53b6948",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7520fffd119c03da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2567707185a5b75a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f909ae642222ece",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0ebcbe91f799908",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c2bfb2815ced30d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dcf92b0193c0348",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technical presentation - Monorepo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Technical presentation - Monorepo"
+            }
+          },
+          {
+            "id": "f299b85e5d6d1703",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Technical presentation - Monorepo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Technical presentation - Monorepo"
+            }
+          },
+          {
+            "id": "702acca915ba459c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "401c7ed27743c7c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Technical presentation - Monorepo.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Technical presentation - Monorepo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "22db9615996525ed",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "TODO.md",
+    "Technical presentation - Monorepo.md",
+    "2024-10-30.md",
+    "SSR vs CSR.md",
+    "hehe.md",
+    "Pasted image 20241016093700.png",
+    "Pasted image 20241014231125.png",
+    "Pasted image 20241016093915.png",
+    "Untitled.canvas"
+  ]
+}
